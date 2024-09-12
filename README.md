@@ -1,4 +1,3 @@
-# Employee_Management
 # Employee Management System
 
 A Spring Boot application for managing employee records, performing **CRUD (Create, Read, Update, Delete)** operations via RESTful APIs. This project is a simple Employee Management System to demonstrate how to use Spring Boot, Spring Data JPA, and a relational database to handle backend operations.
